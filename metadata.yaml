@@ -1,5 +1,8 @@
 _repo: Spiritual-vampirism-The-history-of-Etherial-Softdown-and-her-friends-of-the-New-Light_69201
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69201-h/images/cover.jpg
 creator:
   author:
     agent_name: Webber, Charles W. (Charles Wilkins)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55161
     wikipedia: https://en.wikipedia.org/wiki/Charles_Wilkins_Webber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69201#Spiritual-vampirism-The-history-of-Etherial-Softdown-and-her-friends-of-the-New-Light
 gutenberg_issued: '2022-10-21'
 identifiers:
   gutenberg: '69201'
